@@ -1,0 +1,12 @@
+django==2.0
+djangorestframework==3.11.0
+pytz==2020.1
+Python==3.5.6
+
+//for username and password please run below code
+python manage.py createsuperuser
+->username
+->email(if you want)
+->password
+->repassword
+python manage.py migrate

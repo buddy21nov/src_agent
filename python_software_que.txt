@@ -1,0 +1,18 @@
+Question1: Have you ever worked on any networking related program.networking means working with TCP/UDP.
+Ans. i know TCP/UDP but i am not doing any work on networking ralated program.
+
+Question2:Do you have any knowledge or experience with SIP.Again this experience does not necessarily need to be in python.
+Ans. i have knowledge of Session creation but i have not any experience.
+
+Question3:Do you have knowledge of database(either NoSQL or SQL).which one?
+Ans.i have knowledge of database SQL.
+
+Question4:Have you ever worked with an ORM like sqlalchemy/mongoengine in python.
+Ans. No i am not work with an ORM sqlalchemy/mongoengine in python.
+
+Question5: have you ever worked with any microservices/web based frameworks in python.
+Ans.i have knowledge of django framework.
+
+Question6:Have you ever used any concurrency framework in python.
+Ans.i have no any idea in this topic.
+ 
